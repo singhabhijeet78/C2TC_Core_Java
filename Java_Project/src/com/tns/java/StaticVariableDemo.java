@@ -14,7 +14,7 @@ public class StaticVariableDemo
 	
 	{
 		System.out.println(name+" "+roll+" "+coll);
-	}
+	}                                                                                                                                                                                                                                           
 
 	
 	public StaticVariableDemo(String name, int roll) {
